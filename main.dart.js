@@ -89844,7 +89844,7 @@ $S:11}
 A.arC.prototype={
 $0(){var s=0,r=A.F(t.P),q=this
 var $async$$0=A.B(function(a,b){if(a===1)return A.C(b,r)
-for(;;)switch(s){case 0:A.fO(q.a,"AddAlumno",B.aW,t.X)
+for(;;)switch(s){case 0:A.fO(q.a,"AddAsignatura",B.aW,t.X)
 return A.D(null,r)}})
 return A.E($async$$0,r)},
 $S:15}
